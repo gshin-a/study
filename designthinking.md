@@ -12,5 +12,16 @@
 - design thinking 사례
   1. 코로나 드라이브스루 진료소 & LG CNS 화장품 회사 (https://blog.lgcns.com/2522)
   2. 여름휴가 즐기기 (디자인 씽킹 방법(예시).pdf)
+  3. https://online.hbs.edu/blog/post/design-thinking-examples
+
+- design thiking과 유사한 이론 - 인간 중심 디자인 (HCD)
+  - https://www.ciokorea.com/tags/103814/%EB%94%94%EC%9E%90%EC%9D%B8%EC%82%AC%EA%B3%A0/146014
+
+- design thinking과 상반된 이론 - 합리적 문제 해결 (rational problem-solving)
+
+- design thiking은 왜 유명해졌을까?
 
 - design thinking tools
+-   - https://www.sessionlab.com/blog/design-thinking-online-tools/
+
+- design thinking이 웹사이트 디자인과 사용자 경험을 향상시키는 방법
