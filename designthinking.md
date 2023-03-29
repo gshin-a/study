@@ -13,6 +13,11 @@
   1. 코로나 드라이브스루 진료소 & LG CNS 화장품 회사 (https://blog.lgcns.com/2522)
   2. 여름휴가 즐기기 (디자인 씽킹 방법(예시).pdf)
   3. https://online.hbs.edu/blog/post/design-thinking-examples
+      - GE Healthcare : 
+      - Oral B :
+      - Netflix :
+      - Airbnb :
+      - UberEats :
 
 - design thiking과 유사한 이론 - 인간 중심 디자인 (HCD)
   - https://www.ciokorea.com/tags/103814/%EB%94%94%EC%9E%90%EC%9D%B8%EC%82%AC%EA%B3%A0/146014
