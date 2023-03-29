@@ -24,8 +24,6 @@
 
 - design thinking과 상반된 이론 - 합리적 문제 해결 (rational problem-solving)
 
-- design thiking은 왜 유명해졌을까?
-
 - design thinking tools
 -   - https://www.sessionlab.com/blog/design-thinking-online-tools/
 
