@@ -28,5 +28,3 @@
 
 - design thinking tools
 -   - https://www.sessionlab.com/blog/design-thinking-online-tools/
-
-- design thinking이 웹사이트 디자인과 사용자 경험을 향상시키는 방법
