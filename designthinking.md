@@ -20,9 +20,11 @@
       - UberEats :
 
 - design thiking과 유사한 이론 - 인간 중심 디자인 (HCD)
+  - https://jnjphoto.tistory.com/9 
   - https://www.ciokorea.com/tags/103814/%EB%94%94%EC%9E%90%EC%9D%B8%EC%82%AC%EA%B3%A0/146014
 
 - design thinking과 상반된 이론 - 합리적 문제 해결 (rational problem-solving)
+  - https://problemlosning.wordpress.com/tag/rational-problem-solving/
 
 - design thinking tools
 -   - https://www.sessionlab.com/blog/design-thinking-online-tools/
