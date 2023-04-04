@@ -27,6 +27,7 @@
 
 - design thinking과 상반된 이론 - 합리적 문제 해결 (rational problem-solving)
   - https://problemlosning.wordpress.com/tag/rational-problem-solving/
+  - https://bootcamp.uxdesign.cc/design-thinking-vs-problem-solving-understanding-the-differences-3970d372c42e
 
 - design thinking tools
 -   - https://www.sessionlab.com/blog/design-thinking-online-tools/
